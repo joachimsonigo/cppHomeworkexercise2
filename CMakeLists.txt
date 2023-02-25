@@ -3,4 +3,4 @@ project(cppHomeworkExercise2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cppHomeworkExercise2 main.cpp)
+add_executable(cppHomeworkExercise2 main.cpp Exercise2_Library.h)
